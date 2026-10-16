@@ -3,7 +3,7 @@
 
 工具将生成 20 年内的 农/阳历 日程.
 
-在线演示: https://calendar.p2gg.com/
+在线演示: https://lunar-calendar.p2gg.workers.dev
 
 <img align="left" width="360" src="/asset/2026-03-22_21-03.webp">
 
