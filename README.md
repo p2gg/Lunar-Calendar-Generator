@@ -1,9 +1,9 @@
 # Lunar-Calendar-Generator
-生成农历/阳历 .ics 日程的静态页面. 方便生成日程的小工具.
+A static page for generating lunar/Gregorian .ics calendar events. A handy tool for creating calendar events.
 
-工具将生成 20 年内的 农/阳历 日程.
+Generates lunar and Gregorian calendar events for the next 20 years.
 
-在线演示: https://lunar-calendar.p2gg.workers.dev
+Live demo: https://lunar-calendar.p2gg.workers.dev
 
 <img align="left" width="360" src="/asset/2026-03-22_21-03.webp">
 
@@ -12,3 +12,11 @@
 <img align="left" width="720" src="/asset/2026-03-22_21-00.webp">
 
 <img align="left" width="720" src="/asset/2026-03-22_21-01.webp">
+
+<br clear="left"></br>
+
+生成农历/阳历 .ics 日程的静态页面. 方便生成日程的小工具.
+
+工具将生成 20 年内的 农/阳历 日程.
+
+在线演示: https://lunar-calendar.p2gg.workers.dev
